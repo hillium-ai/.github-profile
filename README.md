@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_TU_LOGO_HILLIUM_EN_ALTA_RESOLUCION" alt="Hillium Logo" width="500">
+  <img src="https://www.hillium.ai/images/2048/19472636/logo_hillium_negro-HdJhznK4BDXT4RmEhZ9DJQ.png" alt="Hillium Logo" width="500">
 </p>
 
 <h1 align="center">Hillium: The Nervous System for a Kinetic World.</h1>
