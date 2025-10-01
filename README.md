@@ -49,7 +49,7 @@ Our work is centered around the **Hillium Orchestrator Core (HOC)**, our open-so
 We believe the future of Kinetic AI will be built by a global community. Whether you're a developer, a researcher, or a robotics enthusiast, there's a place for you here.
 
 *   ⭐️ **Star and watch our [`core` repository](https://github.com/hillium-ai/core)** to follow our development.
-*   💬 **Join the conversation on our [Discord server]([#](https://discord.gg/n7ChqvPWgR)** to connect with the team and community.
+*   💬 **Join the conversation on our [Discord server](https://discord.gg/n7ChqvPWgR)** to connect with the team and community.
 *   💡 **Read our [`CONTRIBUTING.md`](https://github.com/hillium-ai/core/blob/main/CONTRIBUTING.md)** guide to learn how you can help build the future.
 
 ---
