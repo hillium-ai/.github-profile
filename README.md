@@ -15,7 +15,7 @@
   ·
   <a href="#"><strong>Blog (Coming Soon)</strong></a>
   ·
-  <a href="#"><strong>Join our Discord</strong></a>
+  <a href="https://discord.gg/n7ChqvPWgR"><strong>Join our Discord</strong></a>
   ·
   <a href="https://x.com/HilliumAI"><strong>Follow us on X</strong></a>
 </p>
